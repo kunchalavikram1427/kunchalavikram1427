@@ -10,6 +10,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 - 👯 I’m looking to collaborate on making DevOps blogs<br/>
 - 🤔 I’m looking for help with making presentations that help poor learn for free<br/>
 - 💬 Ask me about programming!<br/>
-- 📫 How to reach me: Email: kunchakavikram1427@gmail.com<br/>
+- 📫 How to reach me: Email: kunchalavikram1427@gmail.com<br/>
 - ⚡ Fun fact: I love watching sitcoms<br/>
 
+<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/vikram.devops">here</a> </h3> 
