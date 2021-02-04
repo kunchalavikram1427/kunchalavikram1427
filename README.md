@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, This is Vikram 👋
 
+### I'm a IoT Application Developer and DevOps Engineer!. TEACHING IS PASSION
 <!--
 **kunchalavikram1427/kunchalavikram1427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
