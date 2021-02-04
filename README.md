@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Vikram. 👋🤓</h2>
-<p align="center">I'm a Software Developer and DevOps Engineer from India. TEACHING IS PASSION.
+<p align="center">I'm a Software Developer and DevOps Engineer from India. TEACHING IS MY PASSION.
 Most of the times you see me writing tutorials on various languages like Python, and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform etc.
 When I'm not writing, you can find me watching videos on youtube, watching sitcoms, day dreaming or on my mobile. </p>
 
