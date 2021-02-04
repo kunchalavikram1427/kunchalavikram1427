@@ -1,6 +1,6 @@
-### Hi there, This is Vikram 👋
+### Hello there, This is Vikram 👋
 
-### I'm a IoT Application Developer and DevOps Engineer. TEACHING IS PASSION!!!
+### I'm a Software Developer and DevOps Engineer from India. TEACHING IS PASSION!!!
 
 - 🔭 I’m currently working on making awesome presentations for teaching DevOps
 - 🌱 I’m currently learning CI/CD
