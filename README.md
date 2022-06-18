@@ -50,7 +50,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![ZigBee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
-## 📈 My GitHub Stats
+## ⚡ My GitHub Stats
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&theme=gotham" alt="kunchalavikram1427" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kunchalavikram1427&show_icons=true&line_height=27&include_all_commits=true"/> 
@@ -58,10 +58,12 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
  -->
  | <a href="https://github.com/kunchalavikram1427/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunchalavikram1427&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<hr>
-<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/groups/171043094400359">here</a> </h3> 
 
-#### Top Repositories
+## ⚡ Top Repositories
 <a href="https://github.com/kunchalavikram1427/YouTube_Series">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=YouTube_Series&theme=buefy" />
 </a>
+
+<hr>
+<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/groups/171043094400359">here</a> </h3> 
+
