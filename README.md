@@ -51,7 +51,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 ![ZigBee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
 ## 📈 My GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&theme=gotham" alt="kunchalavikram1427" />
-![Profile Views](https://komarev.com/ghpvc/?username=kunchalavikram&color=blue)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&theme=gotham" alt="kunchalavikram1427" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=kunchalavikram1427&color=blue)
 <hr>
 <h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/groups/171043094400359">here</a> </h3> 
