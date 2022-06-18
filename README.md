@@ -52,21 +52,16 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 
 ## 📈 My GitHub Stats
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&theme=gotham" alt="kunchalavikram1427" />
- -->
+
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kunchalavikram1427&show_icons=true&line_height=27&include_all_commits=true"/> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunchalavikram1427&hide=TeX&layout=compact)
+ -->
+ | <a href="https://github.com/kunchalavikram1427/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunchalavikram1427&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <hr>
 <h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/groups/171043094400359">here</a> </h3> 
 
-| <a href="https://github.com/kunchalavikram1427/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunchalavikram1427&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 #### Top Repositories
-
-
-<a href="https://github.com/kunchalavikram1427/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/kunchalavikram1427/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/kunchalavikram1427/YouTube_Series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=YouTube_Series&theme=buefy" />
 </a>
