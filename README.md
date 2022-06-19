@@ -13,7 +13,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 - 📫 How to reach me: Email: kunchalavikram1427@gmail.com<br/>
 - ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/DevOpsMadeEasy. Tech & Shopping addict :P<br/>
 
-## ⚡ Domains:
+## ⚡ Domains
 - DevOps
 - Cloud
 - Development
