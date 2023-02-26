@@ -5,18 +5,17 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 
 ## ⚡ Updates
 
-- 🔭 I’m currently working on making awesome YouTube Videos for teaching DevOps <br/>
-- 🌱 I’m currently preparing for K8s certifications<br/>
-- 👯 I’m looking for help with modifying my wordpress site. Any help would be appreciated!<br/>
-- 🤔 I’m looking for help with making presentations that help people learn for free<br/>
+- 🔭 I’m currently working on building my own website https://www.devopsmadeeasy.in and making awesome YouTube Videos for teaching DevOps<br/>
+- 🌱 Recently completed all 3 K8s certifications: CKA, CKAD and CKS<br/>
+- 👯 I’m looking for help with writing blogs for my website. Any help would be appreciated!<br/>
 - 💬 Ask me about programming and DevOps!<br/>
-- 📫 How to reach me: Email: kunchalavikram1427@gmail.com<br/>
+- 📫 How to reach me: Email: kunchalavikram1427@gmail.com or devopsmadeeasy@outlook.com<br/>
 - ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/DevOpsMadeEasy. Tech & Shopping addict :P<br/>
 
 ## ⚡ Domains
 - DevOps
 - Cloud
-- Development
+- Programming
 
 ## ⚡ Tech Stack
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
