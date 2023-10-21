@@ -3,8 +3,7 @@
 Most of the time you see me writing tutorials on various languages like Python/Go, and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git,  etc.
 When I'm not writing, you can find me watching videos on youtube, watching sitcoms, daydreaming, or playing mobile games. Kindly support my YouTube channel https://www.youtube.com/c/DevOpsMadeEasy </p>
 
-<h2 align="center">👋 Hello there, I'm Vikram</h2>
-<h3 align="center">🚀 Welcome to my GitHub profile! 🛠️ </h2>
+<h2 align="center">👋 Hello there, I'm Vikram. 🚀 Welcome to my GitHub profile! 🛠️ </h2>
 
 🛢️ I'm a Software Developer and DevOps Engineer from India, passionate about automating and optimizing software development, deployment, and infrastructure management. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br>
 
