@@ -1,8 +1,3 @@
-<h2 align="center">Hello there! My name is Vikram. 👋🤓</h2>
-<p align="center">I'm a Software Developer and DevOps Engineer from India. TEACHING IS MY PASSION.
-Most of the time you see me writing tutorials on various languages like Python/Go, and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git,  etc.
-When I'm not writing, you can find me watching videos on youtube, watching sitcoms, daydreaming, or playing mobile games. Kindly support my YouTube channel https://www.youtube.com/c/DevOpsMadeEasy </p>
-
 <h2 align="center">👋 Hello there, I'm Vikram. 🚀 Welcome to my GitHub profile! 🛠️ </h2>
 
 🛢️ I'm a Software Developer and DevOps Engineer from India, passionate about automating and optimizing software development, deployment, and infrastructure management. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br>
@@ -23,7 +18,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 ## ⚡ Updates
 
 - 🔭 I’m currently working on building my own website https://www.devopsmadeeasy.in and making awesome YouTube Videos for teaching DevOps<br/>
-- 🌱 Recently completed all 3 K8s certifications: CKA, CKAD and CKS<br/>
+- 🌱 Recently completed all 3 K8s certifications: CKA, CKAD and CKS. Preparing for Terraform Associate Certification<br/>
 - 👯 I’m looking for help with writing blogs for my website. Any help would be appreciated!<br/>
 - 💬 Ask me about programming and DevOps!<br/>
 - 📫 How to reach me: Email: kunchalavikram1427@gmail.com or devopsmadeeasy@outlook.com<br/>
