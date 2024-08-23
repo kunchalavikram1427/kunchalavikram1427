@@ -18,7 +18,7 @@
 ## ⚡ Updates
 
 - 🔭 I’m currently working on building my own website https://www.devopsmadeeasy.in and making awesome YouTube Videos for teaching DevOps<br/>
-- 🌱 Recently completed all 3 K8s certifications: CKA, CKAD and CKS. Preparing for Terraform Associate Certification<br/>
+- 🌱 Certified KCNA, CKA, CKAD, CKS, Terraform Associate<br/>
 - 👯 I’m looking for help with writing blogs for my website. Any help would be appreciated!<br/>
 - 💬 Ask me about programming and DevOps!<br/>
 - 📫 How to reach me: Email: kunchalavikram1427@gmail.com or devopsmadeeasy@outlook.com<br/>
